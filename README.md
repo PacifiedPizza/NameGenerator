@@ -35,7 +35,7 @@ To run this project locally, follow these steps:
     npm start
     ```
 
-4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to use the random name generator.
+4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3001) to use the random name generator.
 
 ## Usage
 
